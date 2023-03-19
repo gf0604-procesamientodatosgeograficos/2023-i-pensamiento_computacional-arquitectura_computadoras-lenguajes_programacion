@@ -822,7 +822,7 @@ exclude: false
 - #### Longitud del lado (de cuadrados y triángulos)
 
 ---
-exclude: true
+exclude: false
 
 # Práctica de programación con Scratch
 ## Aplicación de pensamiento computacional
@@ -841,7 +841,7 @@ dibujar_paisaje
 </code></pre>
 
 ---
-exclude: true
+exclude: false
 
 <pre><code class="shell">
 dibujar_casa (x, y, lado)
@@ -875,7 +875,7 @@ dibujar_techo (x, y, lado)
 </code></pre>
 
 ---
-exclude: true
+exclude: false
 
 # Práctica de programación con Scratch
 ## Aplicación de pensamiento computacional
